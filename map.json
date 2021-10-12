@@ -314,7 +314,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":180,
+                 "width":193,
                  "x":386.53,
                  "y":397.92
                 }, 
@@ -396,22 +396,6 @@
                  "width":84.625,
                  "x":1297.82,
                  "y":270.730796755725
-                }, 
-                {
-                 "height":18.84375,
-                 "id":18,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Hello World",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":84.625,
-                 "x":1505.77910305343,
-                 "y":886.76133110687
                 }],
          "opacity":1,
          "type":"objectgroup",
